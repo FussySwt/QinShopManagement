@@ -1,0 +1,1 @@
+export const commonApi = 'https://www.yuzumaoyi.com:8081/'
